@@ -9,6 +9,8 @@ comments can only be approved or deleted by author.
 python = 3.8
 django = 2.2.5
 
+![](img/one.png)
+
 
 
 
